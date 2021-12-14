@@ -3,8 +3,7 @@ A basic CRUD app using react-native-web, MongoDB, Express and NodeJs along with 
 
 ## Steps to run the app
 after cloning
-> cd server
-> 
+> cd server.
 > npm i
 > node seedData.js 
 > node index.js
